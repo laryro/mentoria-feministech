@@ -1,0 +1,8 @@
+.header__texto {
+  color: rgb(187, 99, 225);
+}
+
+.header__texto.texto {
+  background-color: rgb(255, 204, 0);
+  color: green;
+}

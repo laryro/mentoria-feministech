@@ -1,0 +1,13 @@
+.header__texto.texto {
+  color: rgb(51, 94, 203);
+}
+
+@media screen and (max-width: 400px) {
+  .header__texto.texto {
+    color: #cf2f4b;
+  }
+
+  body {
+    background-color: rgb(251 201 201);
+  }
+}
