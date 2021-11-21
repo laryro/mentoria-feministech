@@ -1,0 +1,25 @@
+body {
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0px;
+}
+
+#btn {
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  width: 300px;
+  height: 150px;
+  border-radius: 80px;
+  border: none;
+  background-color: red;
+  color: #ffff;
+}
+
+#btn:hover {
+  background: green;
+  border: solid 1px;
+  border-color: darkblue;
+}
